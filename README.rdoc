@@ -1,0 +1,7 @@
+= John Wang Slides
+
+These are slides that were used in presentations, classes, talks, and other speaking engagements I have done.
+
+== Notes
+
+There are files in Keynote format. Sometimes there will be some in PowerPoint (yikes!) and there's some that are being worked on as using Scott Chacon's ShowOff - https://github.com/schacon/showoff
